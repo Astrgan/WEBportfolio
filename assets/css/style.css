@@ -1151,6 +1151,9 @@ ul.chart-list li:last-child {
 .education-section .accordion .acco-clr5:before,
 .education-section .accordion .acco-clr5 > .icon { color: #ab47bc; }
 
+.education-section .accordion .acco-clr6:before,
+.education-section .accordion .acco-clr6 > .icon { color: #47aabc; }
+
 .h129{
   height: 94px !important;
 }
@@ -1963,4 +1966,18 @@ body.clearfix.chooser {
 
 .Section-title>ul{
   list-style:circle !important;
+}
+
+.color-1{
+  color: #2196f3;
+}.color-2{
+  color: #26a69a;
+}.color-3{
+  color: #ef5350;
+}.color-4{
+  color: #fbc02d;
+}.color-5{
+  color: #ab47bc;
+}.color-6{
+  color: #47AABC;
 }
